@@ -46,6 +46,33 @@ venv.bak/
 htmlcov/
 .tox/
 
+# Media files - NO VIDEO/IMAGES
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.webm
+*.m4v
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+*.tiff
+*.ico
+
+# Model files
+*.pt
+*.pth
+*.h5
+*.pkl
+*.caffemodel
+yolov8n.pt
+
 # OS
 .DS_Store
 Thumbs.db
